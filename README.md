@@ -117,7 +117,7 @@ I2Cのアドレス
 ・stnFreq[]に受信する放送局の周波数を指定する。例えば80.4MHzの場合、8040と指定する。なお、stnName[]には対応する放送局名を指定する。これはブラウザに表示される。<br>
 &nbsp;&nbsp;指定できる放送局は8までである（増やす場合は自己責任でお願いします）。<br>
 <p>
-<img src="./RDA5807_XIAO_PAD_2.jpg" width="240" height="200"><br>
+<img src="https://github.com/asmnoak/RDA5807_radio_ESP32C3_with_weekly_Schedule/blob/main/RDA5807_XIAO_ESP32C3_2.JPG" width="240" height="200"><br>
 </p>
 </p>
 <p><strong>注意事項</strong><br>
