@@ -31,7 +31,7 @@ RDA5807FPは電圧3.3Vで動作し、必要な電流は20mA程度なので、XIA
  ・Xtal発振器（32768Hz）、コンデンサ類、オーディオジャック、配線類<br>
 </p>
 <p>
-<img src="./RDA5807_XIAO_PAD_1.jpg" width="360" height="440"><br>
+<img src="https://github.com/asmnoak/RDA5807_radio_ESP32C3_with_weekly_Schedule/blob/main/RDA5807_XIAO_ESP32C3_1.JPG" width="360" height="440"><br>
 汎用基板に実装。手前がXIAO ESP32C、奥がRDA5807FP。
 </p>
 <p><strong>接続</strong><br>
