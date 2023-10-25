@@ -87,7 +87,7 @@ I2Cのアドレス
 以下の画面の"Station List"には、スケッチ中のstnName[]配列 （局名）が表示されるので対応させておく必要がある。<br>
 下部の"Control Functions"には、音量、選局、電源ON/OFFの各操作ボタンがある。
 <p>
-<img src="[./weekly_schedule.jpg](https://github.com/asmnoak/RDA5807_radio_ESP32C3_with_weekly_Schedule/blob/main/weekly_schedule.jpg)" width="900" height="560"><br>
+<img src="https://github.com/asmnoak/RDA5807_radio_ESP32C3_with_weekly_Schedule/blob/main/weekly_schedule.jpg" width="900" height="560"><br>
 </p>
 
 </p>
